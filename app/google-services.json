@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491094756640",
+    "firebase_url": "https://datos-cc4b8-default-rtdb.firebaseio.com",
+    "project_id": "datos-cc4b8",
+    "storage_bucket": "datos-cc4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491094756640:android:684a78b5a1cd24b7385b45",
+        "android_client_info": {
+          "package_name": "com.example.datos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491094756640-qoi85d4f3jdgmogi1nmdsmovtus22i85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datos",
+            "certificate_hash": "23cba8d2be2f39548b35ef8a37dc84baf3e7f47b"
+          }
+        },
+        {
+          "client_id": "491094756640-nfg8lgolvv8qnvm274u3f8kftl7ueo1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmZcvfRKa0sFQer3HLPEiyac37lLfi7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491094756640-nfg8lgolvv8qnvm274u3f8kftl7ueo1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+
+    android:id="@+id/icon_add"
+    android:icon="@drawable/ic_action_add"
+    android:title="Añadido con exito"
+    app:showAsAction="always"/>
+
+    <item
+
+        android:id="@+id/icon_safe"
+        android:icon="@drawable/ic_action_save"
+        android:title="Guardado con exito"
+        app:showAsAction="always"/>
+
+    <item
+
+        android:id="@+id/icon_del"
+        android:icon="@drawable/ic_action_del"
+        android:title="Borrado con exito"
+        app:showAsAction="always"/>
+</menu>
